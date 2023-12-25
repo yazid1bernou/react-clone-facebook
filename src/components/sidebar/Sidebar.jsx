@@ -52,6 +52,54 @@ export default function Sidebar() {
                         <span className="sidebarListItemText">Courses</span>
                     </li>
                  </ul>
+                 <button className="sidebarButton">Show more</button>
+                 <hr className="sidebarHr" />
+                 <ul className="sidebarFriendList">
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                        <span className="sidebarFriendName">Yazid Bernou</span>
+                    </li>
+                 </ul>
           </div>
       
     </div>
