@@ -14,10 +14,13 @@ export default function Profile() {
             <div className="profileRight">
               <div className="profileRightTop">
                 <div className="profileCover">
-                  
+                    <img  className="profileCoverImg" src="/assets/post/3.jpeg" alt="" />
+                    <img  className="profileUserImg" src="/assets/person/7.jpeg" alt="" />
                 </div>
-                 <img  className="profileImgCover" src="/assets/post/3.jpeg" alt="" />
-                 <img  className="profileUserImg" src="/assets/person/7.jpeg" alt="" />
+                <div className="profileInfo">
+                  <h4 className='profileInfoName'> BERNOU Adem</h4>
+                  <span className='profileInfoDesc'> Hello my friends </span>
+                </div>
               </div>
               <div className="profileRightBottom">
                 <Feed />
